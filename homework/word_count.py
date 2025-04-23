@@ -16,7 +16,7 @@ import string
 # generados debe ser el mismo que el de los archivos originales, pero con
 # un sufijo que indique el número de copia. Por ejemplo, si el archivo
 # original se llama text0.txt, el archivo generado se llamará text0_1.txt,
-# text0_2.txt, etc.
+# text0_2.txt, etc..
 #
 def copy_raw_files_to_input_folder(n):
     """Funcion copy_files"""
